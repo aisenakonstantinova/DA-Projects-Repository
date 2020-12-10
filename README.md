@@ -10,3 +10,4 @@
 |[Проверка гипотез по увеличению выручки в интернет-магазине](Proverka-gipotez-po-uvelicheniyu-vyruchki-internet-magazina)|Проведение A/B-теста и оценка результатов|Pandas, Matplotlib, Scipy|
 |[Анализ рынка заведений общепита Москвы](Analiz-rynka-zavedeniy-obshepita-Moskvy)|Предложение рекомендаций для открытия нового заведения на основе анализа открытых данных о рынке общественного питания Москвы|Pandas, Seaborn, Plotly|
 |[Прогнозирование вероятности оттока клиентов для фитнес-центров](https://github.com/aisenakonstantinova/DA-Projects-Repository/tree/main/Prognoz_veroyatnosti_ottoka_klientov_v_fitnes_centre)|Формирование портретов клиентов с помощью кластеризации, прогнозирование вероятности оттока для каждого клиента в следующем месяце|Pandas, Scikit-learn, Matplotlib, Seaborn|
+|[Анализ пользовательского поведения в мобильном приложении стартапа](Analiz_polzovateley_mob_prilozheniya)|||
